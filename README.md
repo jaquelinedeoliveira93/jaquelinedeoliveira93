@@ -3,7 +3,7 @@
 <h3 align="center">Me chamo Jaqueline de Oliveira, futura desenvolvedora web 🚀</h3>
 
 
-<p align="center">Sou aluna da Laboratória, turma SAP007, estou aprendendo: <i>Javascript, CSS, HTML e Firebase</i></p> 
+<p align="center">Sou aluna da Laboratória, turma SAP007, estou aprendendo: <i>Javascript, CSS, HTML, React e Firebase</i></p> 
 
 <h2 align="center">📈 GitHub Estatísticas</h2>
 
