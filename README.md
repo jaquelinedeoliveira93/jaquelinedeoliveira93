@@ -35,9 +35,11 @@
     <a href="https://www.linkedin.com/in/jaquelinedeoliveiraa/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-jaquelinedeoliveiraa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
     </a>
+<!--
     <a href="https://www.instagram.com/jaquelinedeoliveira93/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-jaquelinedeoliveira93-05122A?style=flat&logo=instagram" alt="instagram"/>
     </a>
+-->
   </div> 
   
 <br>  
