@@ -2,7 +2,9 @@
 
 <h3 align="center">Me chamo Jaqueline de Oliveira e sou desenvolvedora front-end Jr 🚀</h3>
 
-<p align="center">Graduada pela Laboratória, turma SAP007 (2022), estudei: <i>Javascript, CSS, HTML, React e Firebase</i></p> 
+<p align="center">Graduada pela Laboratória, turma SAP007 (2022), estudei: <i>Javascript, CSS, HTML, React e Firebase.</i></p>
+
+<p align="center">Atualmente estou estudando: Angular e TypeScript.</p>
 
 <h2 align="center">📈 GitHub Estatísticas</h2>
 
